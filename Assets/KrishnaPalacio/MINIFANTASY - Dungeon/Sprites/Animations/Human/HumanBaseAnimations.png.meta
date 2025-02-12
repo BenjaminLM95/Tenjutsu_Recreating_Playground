@@ -1,0 +1,3832 @@
+fileFormatVersion: 2
+guid: a086c0da989a0d14db2fb9a77ccc086b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HumanBaseAnimations_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 781
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995e19e12d3c08498b04c6db19e6b8e
+      internalID: -2145559587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 781
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9c165c4fb240d42aa6ffc3aec74bf0
+      internalID: 1869484737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 778
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec9927663e1fd04b96e93d5c100e5cf
+      internalID: -578174713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 778
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf67341ec38b074f969f79ae1d31656
+      internalID: 1071490564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 749
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e70a08d2fc198b4d84b94ee6acc8ec7
+      internalID: 1088544856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 749
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725af907a476b3c4fa27a667597068d6
+      internalID: 259835327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 746
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b8571286664340a3df5f7f31f9956
+      internalID: -43487397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 746
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e80f53492e4d974e89a2df9bd4f0a8d
+      internalID: 1324551285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 717
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c85ee929112684cbf3ea87d9b983fd
+      internalID: 861884505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 717
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7e7448c55294544a375f22df06b1d5
+      internalID: -774255694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 717
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4a3f8d5dd4f814780cd364f5630ea0
+      internalID: -671546353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 717
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5103d2f331bcf4d9cd65fe41dfe34f
+      internalID: 454433704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 685
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf8f2bde5a70e84ba8991286fac10ea
+      internalID: 1436200942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 685
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d0928a5d7a07419e4c4d659f3affe
+      internalID: 105362780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 685
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce70b678f83febc4ea09fb5a186bf773
+      internalID: 1281300900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 685
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe09deae89bb17478f309eef8368297
+      internalID: -1725793034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 653
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9380a8ffd407449aabaab2ce232c44
+      internalID: 694493707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 653
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6706f123b7a6394499713a0e1dded211
+      internalID: -695133655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 653
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427603e659b80194386c7d0ea003d23a
+      internalID: 1028934652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 653
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be03a037d8de00438ea1e95e19e6513
+      internalID: 342765875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 653
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e0b74cb1d05c84197dce6f7e33f524
+      internalID: 226294309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 653
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc354751022a6749a75b2cb82a0316e
+      internalID: 1952139554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 621
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524652af39c4d054e9d77a27a0dc8135
+      internalID: 1450123470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 621
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c6a4972eaf4fb4dac3371b460641d4
+      internalID: 452084483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 621
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b7d744c488c28469adb068130b9574
+      internalID: -40280808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 621
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dafbe88be94964e8348bb571a08826
+      internalID: -1153178310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 621
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356d1db527203144aabe84a0a5114a3
+      internalID: 1763490055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 621
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb841b90edeecdf43a264ca191c35dd2
+      internalID: -1357658650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 589
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdca5ba019f603429cb134457addede
+      internalID: 1055272701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 586
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1d009a7239c34781c511ea4bafa92
+      internalID: 1145862034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 586
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ef09967cd27624cbb4499c9e99a708
+      internalID: -692715479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 589
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9989ff72210a44ca7d07883e57c63b
+      internalID: 661369983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 589
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638be8cc1f3dc70469ef30264e8980a0
+      internalID: 463799413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 589
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86804ba42f6eca148a5a779033455208
+      internalID: 1373361185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 557
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef6e282049e1e9429f4a8ad73befe9f
+      internalID: 825032458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_35
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 557
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a766a8f76cd483840b0c68567d1e5158
+      internalID: -866209517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 557
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b40625515a1714fa365fbf6959a47d
+      internalID: -912047182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 557
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7803591616896848a821fe3ced19396
+      internalID: 244676308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 525
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d714c7c2c9d4a4088b8634f463d49f
+      internalID: 1503760821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_39
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 525
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a86648e86c9ab478c4aa15a0250245
+      internalID: -1579997828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_40
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 525
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72525bb0425b9b24dbe72f1b1213ce07
+      internalID: 752067383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 525
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce9488c675f5649849ceafbee523b1
+      internalID: -556834264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 493
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423e0aefdf81d0f4ea1d5263e5c15546
+      internalID: -58639583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_43
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 493
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5303d82b3228548842b04e750959f8
+      internalID: 1413881653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_44
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98410f68c866c14bab5fcbcc4fdc934
+      internalID: 1310890741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_45
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166759df68732eb47865aaeb5e57fb50
+      internalID: 2082438445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 461
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3be41bd5130c740962b0db1b6a2720
+      internalID: 241651135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 461
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb382666d8a784cb1cacbedb8b19cb
+      internalID: 657103955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 461
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4e7b182afc4ee4aae346aed89dd76c
+      internalID: 1649041749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 461
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72093ecb66079fa42a95f89a0fa4c513
+      internalID: -800821009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8288fc895132b499d932fab7d6c371
+      internalID: -290027236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a643fadf3b61954e8153bd2d997b696
+      internalID: -222383716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_52
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f5b01ab8edc64f913becf82bb2ed0
+      internalID: -1556184185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb94c1ca77d2384eaed99099670d967
+      internalID: 214022843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_54
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2ff3cd5001f374ea461adfe76a333b
+      internalID: 1027238233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c2cb8baef447d4b82871970b00bdb8
+      internalID: 138093305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee8e20af7922d4794498175fcc9946
+      internalID: -1289567858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_57
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a482b393403d5544b6d1f964baa0d96
+      internalID: 771680898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03fb827fa77b6a4e815120f84bd09a7
+      internalID: -544736755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f8fe3c64d27724d8fdea2593b83d96
+      internalID: 1623686338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_60
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14db178fd66eb47a3f831c83aa0066
+      internalID: 1464646761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825b66224430dde4fb023c8881b8806f
+      internalID: -331563617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_62
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66f342c5c8002642bfb7609c12a3c13
+      internalID: -184061399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_63
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b415d3d949473545898d060e28fa152
+      internalID: -1737312044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_64
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d482836b49bbe6408b4cacdc8926b64
+      internalID: -784129492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_65
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49227b8b464904290d37ed961717d1
+      internalID: -127802914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd07bb4e3784b4581dccd33a577e14
+      internalID: 1911390519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356c7c11d86906840bd5e2d56d388c1e
+      internalID: 1145389452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_68
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83599cc202976f642a98bc4f9c267a24
+      internalID: -565936581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_69
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8417bbb3a085f498ddbad417003944
+      internalID: -46376557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_70
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be88d677f8642342b556e0a94cd337c
+      internalID: 1682869809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_71
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081c974946e0344bac18f486796e8b4
+      internalID: -1683369203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_72
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bfe6c7a2b23f843946b4e26ef662e7
+      internalID: -889513919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97110ff3cb79984cba65c1ac4150a1d
+      internalID: 972603194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_74
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a897e68951617b4c98367d1c636cd88
+      internalID: 1682254433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_75
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42282089efea1f4eb99e06e3acf8716
+      internalID: 303780147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_76
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8429475fc2a6ee34fbbcd4c9fb3869aa
+      internalID: 338500272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_77
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccb205ce1db8734c9e2926b444aba20
+      internalID: 1658956551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_78
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af6b83c7909a5146b8dba975790a09e
+      internalID: 1136349076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_79
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a68770f26555564cba41327039dc222
+      internalID: -704414609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_80
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8f90951ec6a941a39e2a569627c63
+      internalID: -1717578622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_81
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 397
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1889a3bd4d1a8c448f94ede607d9e49
+      internalID: 1979549001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_82
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355fe89cf64b84b45ada6b93babb6faf
+      internalID: 355742098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_83
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8685e68d9192dd48b4ffe66e662b95d
+      internalID: -553250747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_84
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f89287d485b347a7c6f94442c614a
+      internalID: 1836493725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_85
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245b8083284a0d943b349aacb894b772
+      internalID: 2116594628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_86
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26314d96d4043b940b778adf1da062e9
+      internalID: 1173874286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_87
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee8fd21c6d712444b0453a58c122734
+      internalID: 752913307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a683301a04bd4280f0c683699ae5e
+      internalID: -1796074515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_89
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fd53bbddcc3fb4c8551c0cd0802c0f
+      internalID: 176479579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_90
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753aaf3ed6bcc94da7da07d22dc7e2b
+      internalID: 352326016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_91
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d00e99110cd7c4c9658d406ba6b9fb
+      internalID: -122675932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77135bf77c4da454da6f7069ad12f0d9
+      internalID: -817720601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_93
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f336e8954ac7f4f808fb165ea3581e
+      internalID: -1913251394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_94
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fefd51df477d434bbfa06477355fe67
+      internalID: -1451838832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_95
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d276ddc26454747bd394e0ff387261
+      internalID: 1858546890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_96
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433e162d257634b4a9f273e17a86c3bb
+      internalID: -531606733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_97
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80bea17b6ab54b4385afeff796589a9
+      internalID: -898047940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_98
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c70385a75de1a24e90be1079ea5fc07
+      internalID: -852015178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_99
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ed66663ea241f43ad5b7846e52d4b9
+      internalID: 1426163906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_100
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd801bb1f068ae4698230d6c8c77c56
+      internalID: -604632149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_101
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f274c3aa99cdddf4eba685219604f3eb
+      internalID: -745411723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_102
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28c965b76197e446aad1b09b021a539
+      internalID: 1792362171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_103
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf48768466a03646ba5fd3623f7ff4a
+      internalID: 407979187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_104
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f32d3e2e34d0174584c9560eb3ef7b3
+      internalID: 213026180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_105
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb8be259a30f6240b55fcfa9a22f5f1
+      internalID: 601206057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_106
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4577a04b3e777d44b574167a561f478
+      internalID: -453600602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_107
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ae0f4ef75e104b8ccc8d56da751ae
+      internalID: -230010042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_108
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e58e337b2239e945a8bdf147e384bfb
+      internalID: 967851839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_109
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c12b03fd4e34d4291261e94cdd5351
+      internalID: -1228735506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_110
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b18133de1623747b718f6f250d3a6e
+      internalID: -1864321718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_111
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5255af0ff5c27774eb040702744a75c2
+      internalID: 175703551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_112
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28662d161453de4297bef9a595aba59
+      internalID: -365087726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_113
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 333
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55958642bfe30b478f76f95da8f26e0
+      internalID: -842481706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24022040e631d245b7a6375f7211309
+      internalID: -712336747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_115
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ebd850e1a047047ae8392a901e7c20
+      internalID: -442481919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_116
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 303
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129e9c15a547fb948a4dc1c6f6f5a544
+      internalID: -52553432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_117
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5dabbb4a6429047b6b4a0c8a5a555d
+      internalID: -1846116770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_118
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 269
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419f8dacbc9416f4e9f18636dcd2f3c9
+      internalID: 1671252404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_119
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 272
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fc4ed60362dbd40883cd2c4aefdc80
+      internalID: 1658034460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_120
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a428cf75c2ea4baa329505b9f4a67
+      internalID: -1192503480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_121
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 269
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b518405e698c4fa45fa4a2accc371
+      internalID: -1718765098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_122
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 237
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c406f5ce89c434b8e18b6926a027aa
+      internalID: 429786439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_123
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60c01d1fa15114f9bf7017ed2aca51
+      internalID: 1349185448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_124
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 239
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552f3dd3bb296bb49a3e6abe28f940e3
+      internalID: -617766579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_125
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 237
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca71979da84bd104a8c06914ac9dfacb
+      internalID: -880110226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_126
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 205
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6e6380131120f448d2e0c083929f90
+      internalID: -846194739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_127
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 208
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6629b32a7da2d4eba5add7a035c0a4
+      internalID: 340865245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_128
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 207
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3cba3aacfd7674e9725089b9d5deef
+      internalID: -1656818473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_129
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 205
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f31f55fe63b54e9feacdcfc4688e0
+      internalID: 1550134224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_130
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ab2d3ac5a943148b03e41692275e1e
+      internalID: -863285163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_131
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab7d2002b36014e80a9ffe2e3b8d7d
+      internalID: 1032977872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_132
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2555bdd20f99947a1682311acebf36
+      internalID: 684503183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_133
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97639ffe4e214544887eff64d1bda679
+      internalID: 1175278620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_134
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afcbccc5b9fbb3419d924a092a6d8c9
+      internalID: 1270717560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 173
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2b49df5fa2c74c977ef3774596322
+      internalID: -926962622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_136
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 172
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcf71b6caa0bde489df8103bcf1cd8b
+      internalID: -966905242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_137
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 172
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5426764dd79c447bb23ee6af274587
+      internalID: 888907232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_138
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 172
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c7ff3ad298c42488cda37fa81b9646
+      internalID: -100834705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_139
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 140
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14ea1ccb02faca438104cbce91a6d05
+      internalID: 1682303558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_140
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 140
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bf9c93d681c9e439897a60e07fc471
+      internalID: 1036481115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_141
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 141
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a1814bde6e4c145aa1393adbce3b43
+      internalID: -509383946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_142
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 141
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e894b2d789a484db2aeb55e3ee75f2
+      internalID: 1728334239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_143
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 141
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49755eacd25bd8a41a2e01b42fc2800e
+      internalID: 2089432278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_144
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31e20b31c2954418a9afcf3a1f34c7
+      internalID: 208576722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_145
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 145
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d644fabc185c6f41b9876e7e44dff88
+      internalID: -1118608452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_146
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91061aa5cd1869640bc81d3a0d0f735f
+      internalID: -2067845471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_147
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 140
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9805d08cfe46fe34dbc81cf63009c889
+      internalID: -24398304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_148
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 150
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9cd0b5abae0004b99fe558e89762ac
+      internalID: 28098622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_149
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7925149928ce84298a10d689a065b3
+      internalID: -2109721893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_150
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 141
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91844b619d1bb80478df6c3ec44f91bc
+      internalID: 117016355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_151
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 140
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb21934062891d40a4c0dca29b2c049
+      internalID: -1563191875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_152
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 140
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2691c2ae198374899f6adc99a91832
+      internalID: -1594543426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_153
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e22ff3aea9b0649ba9c8ddc77863ec
+      internalID: 810255725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_154
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d550051a249447d40850bab90d863668
+      internalID: 915951715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_155
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf046694c2e84428bb7d02d0359ead
+      internalID: -767085382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_156
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b609491e26d37547b0d9bfea682e57c
+      internalID: -356253459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_157
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5913ff1abba2842bf3ab6cbd21aef8
+      internalID: -304722080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_158
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 77
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5f1ef53b4a6c42ad5340cac081d5e
+      internalID: 1984095456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_159
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc75204375a254eb9cac31e4cfd3cf
+      internalID: -1801689126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_160
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 77
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7887520de28276749849b3d3559d9c1c
+      internalID: -1843869747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_161
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188aa9903eeffff4abbe54392c5506ce
+      internalID: 894800766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_162
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ac3cce1a033d4db4e2d78b54cd20c
+      internalID: -38370577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_163
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 45
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34c9b1c6e2d0a046bd9b3f9b597da2e
+      internalID: 414867877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_164
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1e773c2be3f354b929d217440b5311
+      internalID: -1180656554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_165
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd071c7ffc1f12242adae078a545dea0
+      internalID: 1400406203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_166
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c429aa09e336ae747b92126b0ff48454
+      internalID: 482798361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_167
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35a7c7c0c298ba4ea43dabc4c01d87a
+      internalID: -1027582741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanBaseAnimations_168
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad7f3916db16e841a1a1b1d2f689f5f
+      internalID: -1554971330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HumanBaseAnimations_0: -2145559587
+      HumanBaseAnimations_1: 1869484737
+      HumanBaseAnimations_10: -671546353
+      HumanBaseAnimations_100: -604632149
+      HumanBaseAnimations_101: -745411723
+      HumanBaseAnimations_102: 1792362171
+      HumanBaseAnimations_103: 407979187
+      HumanBaseAnimations_104: 213026180
+      HumanBaseAnimations_105: 601206057
+      HumanBaseAnimations_106: -453600602
+      HumanBaseAnimations_107: -230010042
+      HumanBaseAnimations_108: 967851839
+      HumanBaseAnimations_109: -1228735506
+      HumanBaseAnimations_11: 454433704
+      HumanBaseAnimations_110: -1864321718
+      HumanBaseAnimations_111: 175703551
+      HumanBaseAnimations_112: -365087726
+      HumanBaseAnimations_113: -842481706
+      HumanBaseAnimations_114: -712336747
+      HumanBaseAnimations_115: -442481919
+      HumanBaseAnimations_116: -52553432
+      HumanBaseAnimations_117: -1846116770
+      HumanBaseAnimations_118: 1671252404
+      HumanBaseAnimations_119: 1658034460
+      HumanBaseAnimations_12: 1436200942
+      HumanBaseAnimations_120: -1192503480
+      HumanBaseAnimations_121: -1718765098
+      HumanBaseAnimations_122: 429786439
+      HumanBaseAnimations_123: 1349185448
+      HumanBaseAnimations_124: -617766579
+      HumanBaseAnimations_125: -880110226
+      HumanBaseAnimations_126: -846194739
+      HumanBaseAnimations_127: 340865245
+      HumanBaseAnimations_128: -1656818473
+      HumanBaseAnimations_129: 1550134224
+      HumanBaseAnimations_13: 105362780
+      HumanBaseAnimations_130: -863285163
+      HumanBaseAnimations_131: 1032977872
+      HumanBaseAnimations_132: 684503183
+      HumanBaseAnimations_133: 1175278620
+      HumanBaseAnimations_134: 1270717560
+      HumanBaseAnimations_135: -926962622
+      HumanBaseAnimations_136: -966905242
+      HumanBaseAnimations_137: 888907232
+      HumanBaseAnimations_138: -100834705
+      HumanBaseAnimations_139: 1682303558
+      HumanBaseAnimations_14: 1281300900
+      HumanBaseAnimations_140: 1036481115
+      HumanBaseAnimations_141: -509383946
+      HumanBaseAnimations_142: 1728334239
+      HumanBaseAnimations_143: 2089432278
+      HumanBaseAnimations_144: 208576722
+      HumanBaseAnimations_145: -1118608452
+      HumanBaseAnimations_146: -2067845471
+      HumanBaseAnimations_147: -24398304
+      HumanBaseAnimations_148: 28098622
+      HumanBaseAnimations_149: -2109721893
+      HumanBaseAnimations_15: -1725793034
+      HumanBaseAnimations_150: 117016355
+      HumanBaseAnimations_151: -1563191875
+      HumanBaseAnimations_152: -1594543426
+      HumanBaseAnimations_153: 810255725
+      HumanBaseAnimations_154: 915951715
+      HumanBaseAnimations_155: -767085382
+      HumanBaseAnimations_156: -356253459
+      HumanBaseAnimations_157: -304722080
+      HumanBaseAnimations_158: 1984095456
+      HumanBaseAnimations_159: -1801689126
+      HumanBaseAnimations_16: 694493707
+      HumanBaseAnimations_160: -1843869747
+      HumanBaseAnimations_161: 894800766
+      HumanBaseAnimations_162: -38370577
+      HumanBaseAnimations_163: 414867877
+      HumanBaseAnimations_164: -1180656554
+      HumanBaseAnimations_165: 1400406203
+      HumanBaseAnimations_166: 482798361
+      HumanBaseAnimations_167: -1027582741
+      HumanBaseAnimations_168: -1554971330
+      HumanBaseAnimations_17: -695133655
+      HumanBaseAnimations_18: 1028934652
+      HumanBaseAnimations_19: 342765875
+      HumanBaseAnimations_2: -578174713
+      HumanBaseAnimations_20: 226294309
+      HumanBaseAnimations_21: 1952139554
+      HumanBaseAnimations_22: 1450123470
+      HumanBaseAnimations_23: 452084483
+      HumanBaseAnimations_24: -40280808
+      HumanBaseAnimations_25: -1153178310
+      HumanBaseAnimations_26: 1763490055
+      HumanBaseAnimations_27: -1357658650
+      HumanBaseAnimations_28: 1055272701
+      HumanBaseAnimations_29: 1145862034
+      HumanBaseAnimations_3: 1071490564
+      HumanBaseAnimations_30: -692715479
+      HumanBaseAnimations_31: 661369983
+      HumanBaseAnimations_32: 463799413
+      HumanBaseAnimations_33: 1373361185
+      HumanBaseAnimations_34: 825032458
+      HumanBaseAnimations_35: -866209517
+      HumanBaseAnimations_36: -912047182
+      HumanBaseAnimations_37: 244676308
+      HumanBaseAnimations_38: 1503760821
+      HumanBaseAnimations_39: -1579997828
+      HumanBaseAnimations_4: 1088544856
+      HumanBaseAnimations_40: 752067383
+      HumanBaseAnimations_41: -556834264
+      HumanBaseAnimations_42: -58639583
+      HumanBaseAnimations_43: 1413881653
+      HumanBaseAnimations_44: 1310890741
+      HumanBaseAnimations_45: 2082438445
+      HumanBaseAnimations_46: 241651135
+      HumanBaseAnimations_47: 657103955
+      HumanBaseAnimations_48: 1649041749
+      HumanBaseAnimations_49: -800821009
+      HumanBaseAnimations_5: 259835327
+      HumanBaseAnimations_50: -290027236
+      HumanBaseAnimations_51: -222383716
+      HumanBaseAnimations_52: -1556184185
+      HumanBaseAnimations_53: 214022843
+      HumanBaseAnimations_54: 1027238233
+      HumanBaseAnimations_55: 138093305
+      HumanBaseAnimations_56: -1289567858
+      HumanBaseAnimations_57: 771680898
+      HumanBaseAnimations_58: -544736755
+      HumanBaseAnimations_59: 1623686338
+      HumanBaseAnimations_6: -43487397
+      HumanBaseAnimations_60: 1464646761
+      HumanBaseAnimations_61: -331563617
+      HumanBaseAnimations_62: -184061399
+      HumanBaseAnimations_63: -1737312044
+      HumanBaseAnimations_64: -784129492
+      HumanBaseAnimations_65: -127802914
+      HumanBaseAnimations_66: 1911390519
+      HumanBaseAnimations_67: 1145389452
+      HumanBaseAnimations_68: -565936581
+      HumanBaseAnimations_69: -46376557
+      HumanBaseAnimations_7: 1324551285
+      HumanBaseAnimations_70: 1682869809
+      HumanBaseAnimations_71: -1683369203
+      HumanBaseAnimations_72: -889513919
+      HumanBaseAnimations_73: 972603194
+      HumanBaseAnimations_74: 1682254433
+      HumanBaseAnimations_75: 303780147
+      HumanBaseAnimations_76: 338500272
+      HumanBaseAnimations_77: 1658956551
+      HumanBaseAnimations_78: 1136349076
+      HumanBaseAnimations_79: -704414609
+      HumanBaseAnimations_8: 861884505
+      HumanBaseAnimations_80: -1717578622
+      HumanBaseAnimations_81: 1979549001
+      HumanBaseAnimations_82: 355742098
+      HumanBaseAnimations_83: -553250747
+      HumanBaseAnimations_84: 1836493725
+      HumanBaseAnimations_85: 2116594628
+      HumanBaseAnimations_86: 1173874286
+      HumanBaseAnimations_87: 752913307
+      HumanBaseAnimations_88: -1796074515
+      HumanBaseAnimations_89: 176479579
+      HumanBaseAnimations_9: -774255694
+      HumanBaseAnimations_90: 352326016
+      HumanBaseAnimations_91: -122675932
+      HumanBaseAnimations_92: -817720601
+      HumanBaseAnimations_93: -1913251394
+      HumanBaseAnimations_94: -1451838832
+      HumanBaseAnimations_95: 1858546890
+      HumanBaseAnimations_96: -531606733
+      HumanBaseAnimations_97: -898047940
+      HumanBaseAnimations_98: -852015178
+      HumanBaseAnimations_99: 1426163906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
