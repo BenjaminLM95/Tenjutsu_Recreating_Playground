@@ -4,42 +4,56 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public Rigidbody2D playerRigidBody;
+    private Vector2 moveDir = Vector2.zero;
+    private float moveSpeed = 2f;
+
+    
+
     // Start is called before the first frame update
-    void Start()
-    {
-        
+    void Awake()
+    {        
+        playerRigidBody = this.GetComponent<Rigidbody2D>();        
+        Actions.MoveEvent += UpdateMoveVector;
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-        if (Input.GetKeyDown(KeyCode.W)) 
+        HandlePlayerMovement();
+
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            this.transform.position += new Vector3(0, 1, 0); 
+            Debug.Log("Attack!");
         }
-
-        if (Input.GetKeyDown(KeyCode.S)) 
-        {
-            this.transform.position -= new Vector3(0, 1, 0);
-        }
-
-        if (Input.GetKeyDown(KeyCode.A)) 
-        {
-            this.transform.position -= new Vector3(1, 0, 0); 
-        }
-
-        if (Input.GetKeyDown(KeyCode.D)) 
-        {
-            this.transform.position += new Vector3(1, 0, 0); 
-        }
-
-        if (Input.GetKeyDown(KeyCode.Space)) 
-        {
-            Debug.Log("Attack!"); 
-        }
-
-
-
 
     }
+
+    private void UpdateMoveVector (Vector2 inputVector) 
+    {
+        moveDir = inputVector; 
+    }
+
+    private void HandlePlayerMovement() 
+    {
+        playerRigidBody.MovePosition(playerRigidBody.position + moveDir * Time.fixedDeltaTime * moveSpeed);
+    }
+
+    private void OnDisable()
+    {
+        Actions.MoveEvent -= UpdateMoveVector; 
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy")) 
+        {
+            Debug.Log("Colliding with the enemy");
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                Debug.Log("Attack the enemy!");
+            }
+        }
+    }
+
 }
