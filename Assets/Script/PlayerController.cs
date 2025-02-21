@@ -7,6 +7,8 @@ public class PlayerController : MonoBehaviour
     public Rigidbody2D playerRigidBody;
     private Vector2 moveDir = Vector2.zero;
     private float moveSpeed = 2f;
+    public bool isHasDeathMark;
+    public int nDeathMarks; 
 
     
 
@@ -15,6 +17,8 @@ public class PlayerController : MonoBehaviour
     {        
         playerRigidBody = this.GetComponent<Rigidbody2D>();        
         Actions.MoveEvent += UpdateMoveVector;
+        isHasDeathMark = false;
+        nDeathMarks = 0; 
     }
 
     // Update is called once per frame
@@ -53,6 +57,14 @@ public class PlayerController : MonoBehaviour
             {
                 Debug.Log("Attack the enemy!");
             }
+        }
+    }
+
+    public void PutDeathMark() 
+    {
+        if(nDeathMarks > 0) 
+        {
+            nDeathMarks--; 
         }
     }
 
